@@ -9,6 +9,7 @@
   </div>
 </template>
 <!-- test 2 -->
+<!-- test 1 -->
 
 <script lang="ts">
 import { Component, Vue } from 'vue-property-decorator';
