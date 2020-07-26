@@ -8,6 +8,7 @@
     <!-- test3 -->
   </div>
 </template>
+<!-- test 1 -->
 
 <script lang="ts">
 import { Component, Vue } from 'vue-property-decorator';
